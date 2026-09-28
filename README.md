@@ -1,2 +1,3 @@
 # VisualTryOn
 An AI-powered virtual fashion assistant that lets you see, style, and interact with clothes before you buy.
+Buying clothes online is still a guess—you see the garment, but not yourself wearing it. Visual Try-On introduces an AI fashion agent that understands the user's body, preferences, occasion, budget, and context to create personalized outfits. Camera-based body tracking places garments naturally on the user, while AI recommends complete looks and helps with size and fit. Users can also interact with virtual clothes through gestures and experience simulated fabric feedback through haptics. Instead of simply showing a product, Visual Try-On creates an interactive digital fitting experience before the purchase.
